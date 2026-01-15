@@ -129,7 +129,7 @@ ul li:last-child {
   padding: 0rem;
 }
 
-/* Responsive design */
+/*  Responsive design  */
 @media (max-width: 767px) {
   body {
     padding: 9px;
