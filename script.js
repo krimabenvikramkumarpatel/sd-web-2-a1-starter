@@ -1,6 +1,6 @@
 "use strict";
 
-// sample data - expanded Star Wars characters with varied ages
+//  sample data - expanded Star Wars characters with varied ages
 const characters = [
   { id: 1, name: "Luke Skywalker" age: 23 },
   { id: 2, name: "Darth Vader", age: 45 },
